@@ -1,7 +1,7 @@
-# Generate-my-team
 
+# Generate-my-team 
 
-# Generate-my-teamDescription:
+# Description:
 The Team Profile Generator uses inquirer to prompt the user for information about their team. Once the user has entered all of their team members, an html file is generated based on the input. This is a Node.js application. A demo of the project can be found here, Team Profile Generator Demo.
 
 # Prerequisites:
